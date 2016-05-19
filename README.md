@@ -1,2 +1,0 @@
-# currency
-just another repository
